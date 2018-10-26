@@ -4,4 +4,4 @@ particular text widget from dozens 'Text' widgets.
 
 # Installation
 Put contents of the repository in
-`wp-content/plugins/fasterwebsite-better-widgets-area.php`
+`wp-content/plugins/fasterwebsite-better-widgets-area/`
